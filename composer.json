@@ -1,6 +1,6 @@
 {
   "name": "caue-santos/auto-class-discovery",
-  "description": "A auto class discovery",
+  "description": "Discover classes and informations about them",
   "license": "MIT",
   "keywords": [
     "auto",
@@ -10,10 +10,11 @@
   "type": "library",
   "authors": [
     {
-      "name": "",
-      "email": ""
+      "name": "Caue Santos",
+      "email": "cauesantosre4@gmail.com"
     }
   ],
+  "homepage": "https://github.com/caueSantos/auto-class-dicovery",
   "require": {
     "php": ">=7.2",
     "illuminate/support": "^6.0|^7.0|^8.0"
